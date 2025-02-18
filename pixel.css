@@ -96,6 +96,22 @@ body {
     background: rgb(142, 229, 255);
 }
 
+.color-cell.plum {
+    background: plum;
+}
+
+.color-cell.white {
+    background: white;
+}
+
+.color-cell.white {
+    background: gray;
+}
+
+.color-cell.white {
+    background: orange;
+}
+
 
 .tool-cell {
     background: transparent;
